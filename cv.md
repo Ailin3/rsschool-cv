@@ -1,4 +1,4 @@
-Irina Shanina 
+# Irina Shanina 
 ============
 ! [photo] (F:\Ирина\rs-school\5.jpg)
 -------------------     ----------------------------
@@ -8,33 +8,27 @@ My phone                        +375445336918
 My city                             Minsk
 -------------------     ----------------------------
 
-Education
+**Education**
 ---------
+1995-2001 
+Belarusian State Medical University
+2018 - 2020
+Management Academy 
 
-1995-2001 (expected)
-:   **Belarusian State Medical University**
-
-Experience
+**Experience**
 ----------
+course frontend start in Myfreedom school
 
-**course frontend start in Myfreedom school**
-
-
-Technical Experience
+**Technical Experience**
 --------------------
+I have not technical experience but I can study, I want to learn new things, make my dream of becoming a programmer come true.
 
-:   I have not technical experience but I can study, I want to learn new things, make my dream of becoming a programmer come true.
-
-
-Сompleted projects
+**Сompleted projects**
 ------------------
-:   CV
+CV
 
-Languages
+**Languages**
 -----------------------
 English - A2 and I learn English now
 Russian - Native
 Polish - Basic
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
