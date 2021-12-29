@@ -1,12 +1,12 @@
 # Irina Shanina 
 ============
-! [photo] (F:\Ирина\rs-school\5.jpg)
--------------------     ----------------------------
-My email                         Ailin357@yandex.ru
-My nickname discord                  @Ailin#6576
-My phone                        +375445336918
-My city                             Minsk
--------------------     ----------------------------
+
+![photo] (F:\Ирина\rs-school\5.jpg)
+
+* My email              Ailin357@yandex.ru
+* My nickname discord   @Ailin#6576
+* My phone              +375445336918
+* My city               Minsk
 
 **Education**
 ---------
